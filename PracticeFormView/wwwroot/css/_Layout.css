@@ -1,0 +1,234 @@
+.logo-img {
+    width: 78.6px;
+    height: 36px;
+}
+
+.powered-by-text {
+    height: 30px;
+    padding: 0 1rem 0 1rem; 
+    font-size: 12.8px;
+    line-height: 1.2;
+}
+
+.room-name-bar {
+    height: 61px;
+    padding: 16px 15px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.room-name-text {
+    font-size: 24px;
+    line-height: 1.2;
+}
+
+.steps {
+    height: 432px;
+    padding: 16px 15px;
+}
+
+.step-container-hl {
+    height: 40px;
+    border-left: 4px solid white;
+    padding-left: 20px;
+}
+
+.step-container {
+    height: 40px;
+    opacity: 0.2;
+    border-left: 4px solid white;
+    padding-left: 20px;
+}
+.step-name-hl {
+    height: 24px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.step-name {
+    height: 24px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.page-header {
+    height: 182px;
+    gap: 8px;
+    padding: 32px 15px;
+}
+
+.page-name {
+    width: 173px;
+    height: 38px;
+    font-size: 32px;
+    line-height: 1.2;
+}
+
+.page-name-text {
+    height: 72px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.Action-Bar {
+    height: 52px;
+    padding: 0 15px 16px;
+}
+
+.sort-by {
+    width: 67px;
+    height: 36px;
+    padding: 6px 16px 6px 0;
+}
+
+.sort-by-text {
+    width: 51px;
+    height: 24px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.dropdown-bar {
+    border: 1px solid;
+    height: 36px;
+    padding: 6px 12px;
+    border-radius: 2px;
+    margin-right: 30px;
+}
+
+.light-gray {
+   color: #CED4DA;
+}
+
+.dropdown-bar-text {
+    height: 24px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.filters-button {
+    width: 68px;
+    height: 36px;
+    padding: 6px 12px;
+    border: solid 1px;
+}
+
+.filters-button-text {
+    width: 44px;
+    height: 24px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.product-container {
+    padding: 0 15px;
+}
+
+.Product-Card {
+    height: 120px;
+    border-radius: 4px;
+    box-shadow: 0 0 1.8px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 16px;
+}
+
+.product-content {
+    gap: 8px;
+    padding: 16px;
+}
+
+.product-name-text {
+    height: 24px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.additional-info-text {
+    height: 20px;
+    font-size: 16px;
+    line-height: 1.2;
+    color: #6c757d;
+}
+
+.price-text {
+    height: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.product-image {
+    width: 120px;
+    height: 120px;
+    padding: 9.4px;
+}
+
+.pagination {
+    height: 121px;
+    padding: 48px 15px 0;
+}
+
+.pagination-bar {
+    margin-bottom: 8px;
+}
+
+.pagination-icon {
+    width: 48px;
+    height: 46px;
+    padding: 6px 12px;
+    box-shadow: 0 0 1.8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.pagination-vector {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.pagination-text {
+    width: 23px;
+    height: 30px;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.pagination-count {
+    width: 172px;
+    height: 19px;
+    font-size: 12.8px;
+    line-height: 1.5;
+}
+
+.white {
+    color: #E3F0FE;
+}
+
+.gray {
+    color: #6C757D;
+}
+
+.background-blue {
+    background-color: #101E5D;
+}
+
+.border-radius-left {
+    border-radius: 4px 0 0 4px;
+}
+
+.border-radius-right {
+    border-radius: 0 4px 4px 0;
+}
+
+.margin-left {
+    margin-left: 15px
+}
+
+.margin-right {
+    margin-right: 15px
+}
+
+.helvetica {
+    font-family: Helvetica;
+}
+
+.caret {
+    font-size: 1.5rem;
+}
